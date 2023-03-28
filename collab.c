@@ -75,6 +75,7 @@ void jgongo2_pkoby2_kseki3() {
 void kbanu2_elim23(){
   printf("Krenar Banuhsi, Ethan Lim\n");
   printf("We learened that you can open and clone a repository\n");
+  printf("test");
 }
 
 int main() {
@@ -89,6 +90,6 @@ int main() {
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
   kbanu2_elim23();
-  
+
   return 0;
 }
