@@ -72,6 +72,11 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void kbanu2_elim23(){
+  printf("Krenar Banuhsi, Ethan Lim\n");
+  printf("We learened that you can open and clone a repository\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +88,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
-
+  kbanu2_elim23();
+  
   return 0;
 }
